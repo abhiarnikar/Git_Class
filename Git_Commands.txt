@@ -2,3 +2,7 @@
 -git config --global user.name
 -git config --global user.email
 -git add -A
+-git checkout filename
+-git checkout -f
+-git log -p -Number of commits to display
+-git rm
